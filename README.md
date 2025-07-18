@@ -32,7 +32,7 @@ Source: Kaggle – [Enhanced Pizza Sales Data (2024-2025)](https://www.kaggle.co
 Fields Used: Order Time, Pizza Name, Crust Style, Quantity, Revenue, Distance, Traffic Level, Estimated & Actual Delivery Times, State
 
 📸 Dashboard Preview
-(Insert a screenshot image or link to Tableau Public version if published)
+
 
 🛠 Tools Used
 Tableau (for visualization)
@@ -53,7 +53,10 @@ Using calculated fields to simulate real-world logic (revenue, delivery performa
 Reframing datasets into real business use cases
 
 📌 Conclusion
-This dashboard provides a powerful lens into fast-food ordering behavior, delivery accessibility, and consumer preferences across the U.S. With a clean, interactive design and real-world data, it empowers stakeholders to uncover trends, identify operational gaps, and explore opportunities for service optimization. Whether you're analyzing peak demand times, delivery delays, or regional consumption patterns, this project demonstrates how data visualization can turn everyday food orders into meaningful business and behavioral insights.
+
+This dashboard provides a powerful lens into fast-food ordering behavior, delivery accessibility, and consumer preferences across the U.S. With a clean, interactive design and real
+world data, it empowers stakeholders to uncover trends, identify operational gaps, and explore opportunities for service optimization. Whether you're analyzing peak demand times,
+delivery delays, or regional consumption patterns, this project demonstrates how data visualization can turn everyday food orders into meaningful business and behavioral insights.
 
 
 
