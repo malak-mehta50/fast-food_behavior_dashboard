@@ -32,7 +32,7 @@ Source: Kaggle – [Enhanced Pizza Sales Data (2024-2025)](https://www.kaggle.co
 Fields Used: Order Time, Pizza Name, Crust Style, Quantity, Revenue, Distance, Traffic Level, Estimated & Actual Delivery Times, State
 
 📸 Dashboard Preview
-![Dashboard Preview](fast_fooddashboard.png)
+![Dashboard Preview](fast_food dashboard.png)
 [🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/views/Fast-FoodBehaviorDashbaord/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🛠 Tools Used
