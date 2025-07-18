@@ -5,26 +5,27 @@ Fast-food consumption dashboard built in Tableau, exploring delivery efficiency 
 This interactive Tableau dashboard explores fast-food consumption patterns using real-world pizza order data. It analyzes delivery efficiency, geographic preferences, peak demand hours, and consumer behavior — offering insights valuable to food tech, logistics, and service optimization sectors.
 
 🔍 Key Features
-KPI Panel: Total Orders, Revenue, Avg Order Value, Peak Hour Orders
 
-Lollipop Chart: Avg Revenue by Pizza Crust Style
+- KPI Panel: Total Orders, Revenue, Avg Order Value, Peak Hour Orders
 
-Bar-in-Bar Chart: Actual vs Estimated Delivery Time by Restaurant
+- Lollipop Chart: Avg Revenue by Pizza Crust Style
 
-Heatmap: Peak Consumption Hours
+- Bar-in-Bar Chart: Actual vs Estimated Delivery Time by Restaurant
 
-Donut Chart: Top Pizza Selections
+- Heatmap: Peak Consumption Hours
 
-Interactive Line Chart: Orders Over Time (filterable by day, week, month, quarter)
+- Donut Chart: Top Pizza Selections
 
-Geo Map: US States with Highest Pizza Demand
+- Interactive Line Chart: Orders Over Time (filterable by day, week, month, quarter)
+
+- Geo Map: US States with Highest Pizza Demand
 
 🧠 Project Goals
-Apply data storytelling and UI design in Tableau
+- Apply data storytelling and UI design in Tableau
 
-Translate food delivery data into actionable business insights
+- Translate food delivery data into actionable business insights
 
-Practice dashboard design using real-world datasets
+- Practice dashboard design using real-world datasets
 
 📂 Dataset
 Source: Kaggle – [Enhanced Pizza Sales Data (2024-2025)](https://www.kaggle.com/datasets/akshaygaikwad448/pizza-delivery-data-with-enhanced-features/data)
@@ -33,24 +34,23 @@ Fields Used: Order Time, Pizza Name, Crust Style, Quantity, Revenue, Distance, T
 
 📸 Dashboard Preview
 ![Dashboard Preview](fast_food_dashboard.png)
-[🔗 View Full Dashboard on Tableau Public] (https://public.tableau.com/views/Fast-FoodBehaviorDashbaord/Dashboard2?:language=en
-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/views/Fast-FoodBehaviorDashbaord/Dashboard2?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🛠 Tools Used
-Tableau (for visualization)
+- Tableau (for visualization)
 
-Excel (data cleaning & enrichment)
+- Excel (data cleaning & enrichment)
 
-GitHub (for version control and showcase)
+- GitHub (for version control and showcase)
 
 💡 What I Learned
-Designing for UX with dark-mode dashboards
+- Designing for UX with dark-mode dashboards
 
-Visual best practices (color harmony, consistent spacing, clean KPIs)
+- Visual best practices (color harmony, consistent spacing, clean KPIs)
 
-Using calculated fields to simulate real-world logic (revenue, delivery performance)
+- Using calculated fields to simulate real-world logic (revenue, delivery performance)
 
-Reframing datasets into real business use cases
+- Reframing datasets into real business use cases
 
 📌 Conclusion
 
