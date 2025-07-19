@@ -34,7 +34,7 @@ Fields Used: Order Time, Pizza Name, Crust Style, Quantity, Revenue, Distance, T
 
 📸 Dashboard Preview
 ![Dashboard Preview](fast_food_dashboard.png)
-[🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/views/Fast-FoodBehaviorDashbaord/Dashboard2?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/views/Fast-FoodBehaviorDashbaord/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🛠 Tools Used
 - Tableau (for visualization)
